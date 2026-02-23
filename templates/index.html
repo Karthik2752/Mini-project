@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Instagram AI | Enterprise Content Intelligence</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <style>
+        :root {
+            --bg: #09090b; /* Zinc 950 */
+            --card-bg: #121215;
+            --border: #27272a;
+            --primary: #ffffff;
+            --primary-inverse: #000000;
+            --text-main: #fafafa;
+            --text-muted: #a1a1aa;
+            --accent: #3f3f46;
+        }
+
+        * {
+            box-sizing: border-box;
+            transition: all 0.2s ease;
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: var(--bg);
+            background-image: 
+                radial-gradient(at 0% 0%, rgba(63, 63, 70, 0.15) 0px, transparent 50%),
+                radial-gradient(at 100% 100%, rgba(39, 39, 42, 0.2) 0px, transparent 50%);
+            height: 100vh;
+            margin: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: var(--text-main);
+            overflow: hidden;
+        }
+
+        .container {
+            width: 100%;
+            max-width: 480px;
+            padding: 20px;
+        }
+
+        .card {
+            background: var(--card-bg);
+            padding: 48px 40px;
+            border-radius: 20px;
+            border: 1px solid var(--border);
+            box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+
+        .badge {
+            display: inline-block;
+            background: var(--accent);
+            color: var(--text-main);
+            font-size: 11px;
+            font-weight: 600;
+            padding: 4px 12px;
+            border-radius: 100px;
+            margin-bottom: 16px;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        h1 {
+            font-size: 24px;
+            font-weight: 700;
+            margin: 0;
+            letter-spacing: -0.03em;
+        }
+
+        p.description {
+            color: var(--text-muted);
+            font-size: 14px;
+            margin-top: 10px;
+            line-height: 1.5;
+        }
+
+        .input-group {
+            margin-bottom: 24px;
+        }
+
+        label {
+            display: block;
+            font-size: 13px;
+            font-weight: 500;
+            margin-bottom: 10px;
+            color: var(--text-muted);
+        }
+
+        .input-field {
+            width: 100%;
+            background: transparent;
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            padding: 14px 16px;
+            color: white;
+            font-size: 15px;
+            outline: none;
+        }
+
+        .input-field:focus {
+            border-color: var(--text-muted);
+            background: rgba(255, 255, 255, 0.02);
+        }
+
+        .input-field::placeholder {
+            color: #3f3f46;
+        }
+
+        .btn-submit {
+            width: 100%;
+            background: var(--primary);
+            color: var(--primary-inverse);
+            border: none;
+            padding: 16px;
+            border-radius: 12px;
+            font-size: 15px;
+            font-weight: 600;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
+        }
+
+        .btn-submit:hover {
+            opacity: 0.9;
+            transform: scale(0.99);
+        }
+
+        .history-link {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+            margin-top: 32px;
+            text-decoration: none;
+            color: var(--text-muted);
+            font-size: 13px;
+            font-weight: 500;
+        }
+
+        .history-link:hover {
+            color: var(--text-main);
+        }
+
+        /* Loading Animation */
+        .spinner {
+            display: none;
+            width: 18px;
+            height: 18px;
+            border: 2px solid var(--primary-inverse);
+            border-top: 2px solid transparent;
+            border-radius: 50%;
+            animation: spin 0.8s linear infinite;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        .is-loading .spinner { display: block; }
+        .is-loading .btn-text { display: none; }
+        .is-loading .btn-icon { display: none; }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <div class="card">
+            <div class="header">
+              
+                <h1>Content Intelligence</h1>
+                <p class="description">Paste an Instagram link to analyze engagement metrics and AI-generated sentiment.</p>
+            </div>
+
+            <form action="/analyze" method="POST" id="analyzeForm">
+                <div class="input-group">
+                    <label for="post_url">Post URL</label>
+                    <input 
+                        type="text" 
+                        id="post_url" 
+                        name="post_url" 
+                        class="input-field" 
+                        placeholder="instagram.com/p/C..." 
+                        required
+                    >
+                </div>
+
+                <button type="submit" class="btn-submit" id="submitBtn">
+                    <span class="spinner"></span>
+                    <span class="btn-text">Run Analysis</span>
+                    <i data-lucide="arrow-right" class="btn-icon" size="18"></i>
+                </button>
+            </form>
+
+            <a href="/history" class="history-link">
+                <i data-lucide="clock" size="14"></i>
+                Analysis Archives
+            </a>
+        </div>
+    </div>
+
+    <script>
+        // Initialize Icons
+        lucide.createIcons();
+
+        // Handle Form Submission Loading State
+        const form = document.getElementById('analyzeForm');
+        const btn = document.getElementById('submitBtn');
+
+        form.onsubmit = function() {
+            btn.classList.add('is-loading');
+            btn.disabled = true;
+        };
+    </script>
+</body>
+</html>

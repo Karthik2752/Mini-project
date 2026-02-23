@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Analysis History</title>
+</head>
+<body>
+
+<h2>📜 Analysis History</h2>
+
+<table border="1" cellpadding="10">
+    <tr>
+        <th>Likes</th>
+        <th>Views</th>
+        <th>Comments</th>
+        <th>Retention</th>
+        <th>Positive</th>
+        <th>Negative</th>
+        <th>Neutral</th>
+    </tr>
+
+    {% for report in reports %}
+    <tr>
+        <td>{{ report.likes }}</td>
+        <td>{{ report.views }}</td>
+        <td>{{ report.comments }}</td>
+        <td>{{ report.retention }}</td>
+        <td>{{ report.positive }}</td>
+        <td>{{ report.negative }}</td>
+        <td>{{ report.neutral }}</td>
+    </tr>
+    {% endfor %}
+
+</table>
+
+</body>
+</html>

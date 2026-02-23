@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Instagram AI Dashboard</title>
+
+    <style>
+        body {
+            font-family: Arial;
+            background: #f4f6f9;
+            padding: 20px;
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        .cards {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 20px;
+        }
+
+        .card {
+            background: white;
+            padding: 20px;
+            width: 23%;
+            border-radius: 10px;
+            text-align: center;
+            box-shadow: 0 3px 8px rgba(0,0,0,0.1);
+        }
+
+        .section {
+            background: white;
+            padding: 20px;
+            margin-bottom: 20px;
+            border-radius: 10px;
+            box-shadow: 0 3px 8px rgba(0,0,0,0.1);
+        }
+
+        .flex {
+            display: flex;
+            gap: 20px;
+        }
+
+        .half {
+            width: 50%;
+        }
+
+        .positive { color: green; font-weight: bold; }
+        .negative { color: red; font-weight: bold; }
+        .neutral { color: gray; font-weight: bold; }
+
+        .high { color: green; font-weight: bold; }
+        .medium { color: orange; font-weight: bold; }
+        .low { color: red; font-weight: bold; }
+    </style>
+</head>
+<body>
+
+<h1>📊 Instagram AI Analytics Dashboard</h1>
+
+<!-- Metric Cards -->
+<div class="cards">
+    <div class="card">
+        <h3>Likes</h3>
+        <h2>{{ likes }}</h2>
+    </div>
+    <div class="card">
+        <h3>Views</h3>
+        <h2>{{ views }}</h2>
+    </div>
+    <div class="card">
+        <h3>Comments</h3>
+        <h2>{{ total_comments }}</h2>
+    </div>
+    <div class="card">
+        <h3>Retention</h3>
+        <h2>{{ retention }}%</h2>
+    </div>
+</div>
+
+<!-- Retention -->
+<div class="section">
+    <h3>Retention Level</h3>
+    {% if retention_level == "High" %}
+        <p class="high">High Engagement 🔥</p>
+    {% elif retention_level == "Medium" %}
+        <p class="medium">Medium Engagement ⚡</p>
+    {% else %}
+        <p class="low">Low Engagement ⚠</p>
+    {% endif %}
+</div>
+
+<!-- Sentiment -->
+<div class="section">
+    <h3>Sentiment Analysis</h3>
+    <p class="positive">Positive: {{ positive }}</p>
+    <p class="negative">Negative: {{ negative }}</p>
+    <p class="neutral">Neutral: {{ neutral }}</p>
+</div>
+
+<!-- Sentiment Chart -->
+<div class="section">
+    <h3>Sentiment Chart</h3>
+    <img src="{{ sentiment_chart }}" width="60%">
+</div>
+
+<!-- Keywords + WordCloud -->
+<div class="section">
+    <div class="flex">
+        <div class="half">
+            <h3>Top Keywords</h3>
+            <ul>
+                {% for word, count in keywords %}
+                    <li>{{ word }} ({{ count }})</li>
+                {% endfor %}
+            </ul>
+        </div>
+
+        <div class="half">
+            <h3>WordCloud</h3>
+            <img src="{{ wordcloud }}" width="100%">
+        </div>
+    </div>
+</div>
+
+<!-- AI Suggestions -->
+<div class="section">
+    <h3>🤖 AI Improvement Suggestions</h3>
+    <ul>
+        {% for suggestion in suggestions %}
+            <li>{{ suggestion }}</li>
+        {% endfor %}
+    </ul>
+</div>
+
+</body>
+</html>
