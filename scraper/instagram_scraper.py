@@ -1,71 +1,77 @@
 # scraper/instagram_scraper.py
 
 import requests
-import os
 
-# 🔐 Better: store token in environment variable
-APIFY_TOKEN = os.getenv("apify_api_Rp6wePfMrR8E7hUeaOz8l9Q9uhIWax2QRO8I")  # Set in system or .env file
+APIFY_TOKEN = "apify_api_ADTZEXQcJ33rDegIwfKrXsWwoskZIW2aNX7R"
+ACTOR_ID = "apify/instagram-scraper"
+
+
+def safe_get_nested(data, *keys):
+    """Safely extract nested dictionary values"""
+    for key in keys:
+        if isinstance(data, dict) and key in data:
+            data = data[key]
+        else:
+            return None
+    return data
+
 
 def scrape_instagram_post(post_url):
-    """
-    Fetch Instagram post data using Apify API
-    """
 
-    if not APIFY_TOKEN:
-        return {
-            "caption": "Missing Apify Token",
-            "likes": 0,
-            "views": 0,
-            "comments": []
-        }
-
-    api_url = f"https://api.apify.com/v2/acts/apify~instagram-post-scraper/run-sync-get-dataset-items?token={APIFY_TOKEN}"
+    url = f"https://api.apify.com/v2/acts/{ACTOR_ID}/run-sync-get-dataset-items?token={APIFY_TOKEN}"
 
     payload = {
         "directUrls": [post_url],
-        "resultsLimit": 1
+        "resultsLimit": 1,
+        "resultsType": "posts"
     }
 
-    try:
-        response = requests.post(api_url, json=payload)
-        response.raise_for_status()
+    response = requests.post(url, json=payload)
 
-        data = response.json()
+    if response.status_code != 200:
+        print("Apify Error:", response.text)
+        return None
 
-        if not data:
-            return {
-                "caption": "No data found",
-                "likes": 0,
-                "views": 0,
-                "comments": []
-            }
+    data = response.json()
 
-        post = data[0]
+    if not data:
+        print("No Data Returned")
+        return None
 
-        caption = post.get("caption", "")
-        likes = post.get("likesCount", 0)
-        views = post.get("videoViewCount", 0)
+    item = data[0]
 
-        # Extract comments safely
-        comments_data = post.get("comments", [])
-        comments = []
+    print("DEBUG KEYS:", item.keys())
 
-        for comment in comments_data:
-            text = comment.get("text")
-            if text:
-                comments.append(text)
+    # 🔥 PRODUCTION LEVEL EXTRACTION
 
-        return {
-            "caption": caption,
-            "likes": likes,
-            "views": views,
-            "comments": comments
-        }
+    likes = (
+        item.get("likesCount")
+        or item.get("likeCount")
+        or safe_get_nested(item, "edge_media_preview_like", "count")
+        or 0
+    )
 
-    except requests.exceptions.RequestException as e:
-        return {
-            "caption": f"API Error: {str(e)}",
-            "likes": 0,
-            "views": 0,
-            "comments": []
-        }
+    views = (
+        item.get("videoViewCount")
+        or item.get("videoPlayCount")
+        or safe_get_nested(item, "video_view_count")
+        or 0
+    )
+
+    comments_count = (
+        item.get("commentsCount")
+        or safe_get_nested(item, "edge_media_to_comment", "count")
+        or 0
+    )
+
+    comments = []
+
+    if "latestComments" in item:
+        comments = [c.get("text", "") for c in item["latestComments"]]
+
+    return {
+        "likes": int(likes),
+        "views": int(views),
+        "comments_count": int(comments_count),
+        "comments": comments
+    }
