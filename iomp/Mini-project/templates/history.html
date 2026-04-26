@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Analysis History</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+<div class="container">
+    <h2>Analysis History</h2>
+    <p class="muted center">Recent reel reports from local JSON database.</p>
+
+    <div class="actions">
+        <a class="btn ghost" href="/">Back to Analyzer</a>
+    </div>
+
+    {% if reports %}
+        <div class="panel table-wrap">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Timestamp</th>
+                        <th>Likes</th>
+                        <th>Views</th>
+                        <th>Comments</th>
+                        <th>Retention</th>
+                        <th>Engagement Rate</th>
+                        <th>Level</th>
+                        <th>Source</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for report in reports %}
+                    <tr>
+                        <td>{{ report.timestamp }}</td>
+                        <td>{{ report.likes_display }}</td>
+                        <td>{{ report.views_display }}</td>
+                        <td>{{ report.comments_count_display }}</td>
+                        <td>{{ report.retention_score }}%</td>
+                        <td>{{ report.engagement_rate }}%</td>
+                        <td>{{ report.retention_level }}</td>
+                        <td>{{ report.source }} {% if report.is_estimated %}(Estimated){% endif %}</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    {% else %}
+        <div class="panel"><p>No reports yet. Analyze a reel first.</p></div>
+    {% endif %}
+</div>
+</body>
+</html>

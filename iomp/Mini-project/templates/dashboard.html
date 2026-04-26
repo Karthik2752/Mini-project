@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Analysis Dashboard</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+<div class="container">
+    {% if error %}
+        <div class="panel">
+            <h2>Analysis Error</h2>
+            <p class="error">{{ error }}</p>
+            <a class="btn ghost" href="/">Back</a>
+        </div>
+    {% elif result %}
+        <h2>Instagram Reel Analytics Dashboard</h2>
+        <p class="muted center">Generated at {{ result.timestamp }} {% if result.is_estimated %}(Estimated){% endif %}</p>
+
+        <div class="grid-metrics">
+            <div class="metric"><span>Likes</span><strong>{{ result.likes_display }}</strong></div>
+            <div class="metric"><span>Views</span><strong>{{ result.views_display }}</strong></div>
+            <div class="metric"><span>Comments</span><strong>{{ result.comments_count_display }}</strong></div>
+            <div class="metric"><span>Retention</span><strong>{{ result.retention_score }}%</strong></div>
+        </div>
+
+        <div class="grid-metrics">
+            <div class="metric"><span>Like Rate</span><strong>{{ result.like_rate }}%</strong></div>
+            <div class="metric"><span>Comment Rate</span><strong>{{ result.comment_rate }}%</strong></div>
+            <div class="metric"><span>Engagement Rate</span><strong>{{ result.engagement_rate }}%</strong></div>
+            <div class="metric"><span>Interaction Ratio</span><strong>{{ result.interaction_ratio }}%</strong></div>
+        </div>
+
+        <div class="grid-two">
+            <section class="panel">
+                <h3>Retention Level</h3>
+                <p class="pill {{ result.retention_level|lower }}">{{ result.retention_level }}</p>
+                <p class="muted">Formula: (likes / views) * 100</p>
+                <p>{{ result.caption }}</p>
+            </section>
+            <section class="panel">
+                <h3>Performance</h3>
+                <p class="pill">{{ result.performance }}</p>
+                <p class="muted">Reason</p>
+                <p>{{ result.reason }}</p>
+            </section>
+        </div>
+
+        <div class="grid-two">
+            <section class="panel">
+                <h3>Top Keywords</h3>
+                {% if result.keywords %}
+                    <div class="tags">
+                        {% for item in result.keywords %}
+                            <span class="tag">{{ item[0] }} ({{ item[1] }})</span>
+                        {% endfor %}
+                    </div>
+                {% else %}
+                    <p class="muted">No keywords available from caption/title.</p>
+                {% endif %}
+            </section>
+            <section class="panel">
+                <h3>Suggestions (exactly 4)</h3>
+                <ol>
+                    {% for suggestion in result.suggestions %}
+                        <li>{{ suggestion }}</li>
+                    {% endfor %}
+                </ol>
+            </section>
+        </div>
+
+        <div class="actions">
+            <a class="btn ghost" href="/">Analyze Another Reel</a>
+            <a class="btn ghost" href="/history">Open History</a>
+        </div>
+    {% endif %}
+</div>
+
+</body>
+</html>

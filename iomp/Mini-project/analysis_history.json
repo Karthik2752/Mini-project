@@ -1,0 +1,1100 @@
+[
+    {
+        "url": "https://www.instagram.com/reel/DTK1bCBk8Sl/?utm_source=ig_web_copy_link",
+        "caption": "Amazing AI project demo! #AI #MachineLearning #Instagram",
+        "likes": 3270,
+        "views": 2590,
+        "sentiment": {
+            "positive": 10,
+            "negative": 3,
+            "neutral": 0,
+            "total_comments": 13
+        },
+        "retention_score": 126.25,
+        "date": "2026-02-23 17:40:42"
+    },
+    {
+        "url": "https://www.instagram.com/reel/DTK1bCBk8Sl/?utm_source=ig_web_copy_link",
+        "caption": "Missing Apify Token",
+        "likes": 0,
+        "views": 0,
+        "sentiment": {
+            "positive": 0,
+            "negative": 0,
+            "neutral": 0,
+            "total_comments": 0
+        },
+        "retention_score": 0,
+        "date": "2026-02-23 17:52:45"
+    },
+    {
+        "url": "https://www.instagram.com/reel/DTK1bCBk8Sl/?utm_source=ig_web_copy_link",
+        "caption": "Missing Apify Token",
+        "likes": 0,
+        "views": 0,
+        "sentiment": {
+            "positive": 0,
+            "negative": 0,
+            "neutral": 0,
+            "total_comments": 0
+        },
+        "retention_score": 0,
+        "date": "2026-02-23 18:08:58"
+    },
+    {
+        "post_url": "https://www.instagram.com/reel/DTvUDicEuI2/?igsh=MTFpNnVqbmNkbG5xcA==",
+        "likes": 9822,
+        "views": 57235,
+        "comments_count": 84,
+        "likes_display": "9.8K",
+        "views_display": "57.2K",
+        "comments_count_display": "84",
+        "caption": "Demo fallback for https://www.instagram.com/reel/DTvUDicEuI2/?igsh=MTFpNnVqbmNkbG5xcA==. Reason: Empty Firecrawl response or private post",
+        "retention_score": 17.16,
+        "retention_level": "Medium",
+        "sentiment": {
+            "positive": 5,
+            "negative": 0,
+            "neutral": 1,
+            "total_comments": 6,
+            "positive_pct": 83.33,
+            "negative_pct": 0.0,
+            "neutral_pct": 16.67,
+            "sample_size": 6
+        },
+        "keywords": [
+            [
+                "amazing",
+                1
+            ],
+            [
+                "reel",
+                1
+            ],
+            [
+                "helpful",
+                1
+            ],
+            [
+                "loved",
+                1
+            ],
+            [
+                "editing",
+                1
+            ],
+            [
+                "transitions",
+                1
+            ],
+            [
+                "audio",
+                1
+            ],
+            [
+                "could",
+                1
+            ],
+            [
+                "better",
+                1
+            ],
+            [
+                "stayed",
+                1
+            ]
+        ],
+        "suggestions": [
+            "Retention is moderate; test stronger mid-video pattern interrupts.",
+            "Add an explicit call-to-action in the final 20% of the reel.",
+            "Positive sentiment is strong; reuse the same topic angle and narrative style.",
+            "Improve audio quality and normalize volume for voice/music balance.",
+            "Add targeted trending hashtags plus niche hashtags for better discovery."
+        ],
+        "timestamp": "2026-03-27 09:16:14",
+        "source": "demo",
+        "is_estimated": true
+    },
+    {
+        "post_url": "https://www.instagram.com/reel/DWCOq7VyO27/?igsh=MW9qaHlybDk4Ym10MA==",
+        "likes": 17437,
+        "views": 73698,
+        "comments_count": 142,
+        "likes_display": "17.4K",
+        "views_display": "73.7K",
+        "comments_count_display": "142",
+        "caption": "Demo fallback for https://www.instagram.com/reel/DWCOq7VyO27/?igsh=MW9qaHlybDk4Ym10MA==. Reason: Network failure: HTTPSConnectionPool(host='api.firecrawl.dev', port=443): Max retries exceeded with url: /v1/scrape (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x0000026F9A0E0440>: Failed to resolve 'api.firecrawl.dev' ([Errno 11001] getaddrinfo failed)\"))",
+        "retention_score": 23.66,
+        "retention_level": "High",
+        "sentiment": {
+            "positive": 5,
+            "negative": 0,
+            "neutral": 1,
+            "total_comments": 6,
+            "positive_pct": 83.33,
+            "negative_pct": 0.0,
+            "neutral_pct": 16.67,
+            "sample_size": 6
+        },
+        "keywords": [
+            [
+                "amazing",
+                1
+            ],
+            [
+                "reel",
+                1
+            ],
+            [
+                "helpful",
+                1
+            ],
+            [
+                "loved",
+                1
+            ],
+            [
+                "editing",
+                1
+            ],
+            [
+                "transitions",
+                1
+            ],
+            [
+                "audio",
+                1
+            ],
+            [
+                "could",
+                1
+            ],
+            [
+                "better",
+                1
+            ],
+            [
+                "stayed",
+                1
+            ]
+        ],
+        "suggestions": [
+            "High retention detected. Replicate this format with a series-based content plan.",
+            "Positive sentiment is strong; reuse the same topic angle and narrative style.",
+            "Improve audio quality and normalize volume for voice/music balance.",
+            "Add targeted trending hashtags plus niche hashtags for better discovery."
+        ],
+        "timestamp": "2026-03-28 14:43:54",
+        "source": "demo",
+        "is_estimated": true
+    },
+    {
+        "post_url": "https://www.instagram.com/reel/DWCOq7VyO27/?igsh=MW9qaHlybDk4Ym10MA==",
+        "likes": 43395,
+        "views": 233093,
+        "comments_count": 817,
+        "likes_display": "43.4K",
+        "views_display": "233.1K",
+        "comments_count_display": "817",
+        "caption": "Demo fallback for https://www.instagram.com/reel/DWCOq7VyO27/?igsh=MW9qaHlybDk4Ym10MA==. Reason: Empty Firecrawl response or private post",
+        "retention_score": 18.62,
+        "retention_level": "Medium",
+        "sentiment": {
+            "positive": 5,
+            "negative": 0,
+            "neutral": 1,
+            "total_comments": 6,
+            "positive_pct": 83.33,
+            "negative_pct": 0.0,
+            "neutral_pct": 16.67,
+            "sample_size": 6
+        },
+        "keywords": [
+            [
+                "amazing",
+                1
+            ],
+            [
+                "reel",
+                1
+            ],
+            [
+                "helpful",
+                1
+            ],
+            [
+                "loved",
+                1
+            ],
+            [
+                "editing",
+                1
+            ],
+            [
+                "transitions",
+                1
+            ],
+            [
+                "audio",
+                1
+            ],
+            [
+                "could",
+                1
+            ],
+            [
+                "better",
+                1
+            ],
+            [
+                "stayed",
+                1
+            ]
+        ],
+        "suggestions": [
+            "Retention is moderate; test stronger mid-video pattern interrupts.",
+            "Add an explicit call-to-action in the final 20% of the reel.",
+            "Positive sentiment is strong; reuse the same topic angle and narrative style.",
+            "Improve audio quality and normalize volume for voice/music balance.",
+            "Add targeted trending hashtags plus niche hashtags for better discovery."
+        ],
+        "timestamp": "2026-03-28 14:50:11",
+        "source": "demo",
+        "is_estimated": true
+    },
+    {
+        "post_url": "https://www.instagram.com/reel/DWCOq7VyO27/?igsh=MW9qaHlybDk4Ym10MA==",
+        "likes": 51564,
+        "views": 32453,
+        "comments_count": 706,
+        "likes_display": "51.6K",
+        "views_display": "32.5K",
+        "comments_count_display": "706",
+        "caption": "Demo fallback for https://www.instagram.com/reel/DWCOq7VyO27/?igsh=MW9qaHlybDk4Ym10MA==. Reason: Empty Firecrawl response or private post",
+        "retention_score": 158.89,
+        "retention_level": "High",
+        "sentiment": {
+            "positive": 5,
+            "negative": 0,
+            "neutral": 1,
+            "total_comments": 6,
+            "positive_pct": 83.33,
+            "negative_pct": 0.0,
+            "neutral_pct": 16.67,
+            "sample_size": 6
+        },
+        "keywords": [
+            [
+                "amazing",
+                1
+            ],
+            [
+                "reel",
+                1
+            ],
+            [
+                "helpful",
+                1
+            ],
+            [
+                "loved",
+                1
+            ],
+            [
+                "editing",
+                1
+            ],
+            [
+                "transitions",
+                1
+            ],
+            [
+                "audio",
+                1
+            ],
+            [
+                "could",
+                1
+            ],
+            [
+                "better",
+                1
+            ],
+            [
+                "stayed",
+                1
+            ]
+        ],
+        "suggestions": [
+            "High retention detected. Replicate this format with a series-based content plan.",
+            "Positive sentiment is strong; reuse the same topic angle and narrative style.",
+            "Improve audio quality and normalize volume for voice/music balance.",
+            "Add targeted trending hashtags plus niche hashtags for better discovery."
+        ],
+        "timestamp": "2026-03-28 14:50:50",
+        "source": "demo",
+        "is_estimated": true
+    },
+    {
+        "post_url": "https://www.instagram.com/reel/DRUx_hYEsMT/?igsh=MXNobGUzdTVvOW5weA==",
+        "likes": 44964,
+        "views": 39289,
+        "comments_count": 125,
+        "likes_display": "45.0K",
+        "views_display": "39.3K",
+        "comments_count_display": "125",
+        "caption": "Demo fallback for https://www.instagram.com/reel/DRUx_hYEsMT/?igsh=MXNobGUzdTVvOW5weA==. Reason: Empty Firecrawl response or private post",
+        "retention_score": 114.44,
+        "retention_level": "High",
+        "sentiment": {
+            "positive": 5,
+            "negative": 0,
+            "neutral": 1,
+            "total_comments": 6,
+            "positive_pct": 83.33,
+            "negative_pct": 0.0,
+            "neutral_pct": 16.67,
+            "sample_size": 6
+        },
+        "keywords": [
+            [
+                "amazing",
+                1
+            ],
+            [
+                "reel",
+                1
+            ],
+            [
+                "helpful",
+                1
+            ],
+            [
+                "loved",
+                1
+            ],
+            [
+                "editing",
+                1
+            ],
+            [
+                "transitions",
+                1
+            ],
+            [
+                "audio",
+                1
+            ],
+            [
+                "could",
+                1
+            ],
+            [
+                "better",
+                1
+            ],
+            [
+                "stayed",
+                1
+            ]
+        ],
+        "suggestions": [
+            "High retention detected. Replicate this format with a series-based content plan.",
+            "Positive sentiment is strong; reuse the same topic angle and narrative style.",
+            "Improve audio quality and normalize volume for voice/music balance.",
+            "Add targeted trending hashtags plus niche hashtags for better discovery."
+        ],
+        "timestamp": "2026-04-18 12:05:16",
+        "source": "demo",
+        "is_estimated": true
+    },
+    {
+        "post_url": "https://www.instagram.com/reel/DRUx_hYEsMT/?igsh=MXNobGUzdTVvOW5weA==",
+        "likes": 294084,
+        "views": 1023430,
+        "comments_count": 730,
+        "likes_display": "294.1K",
+        "views_display": "1.0M",
+        "comments_count_display": "730",
+        "caption": "@iam__sjsuryah As Bhairava \ud83d\udc80\ud83d\udd25",
+        "retention_score": 28.74,
+        "retention_level": "High",
+        "sentiment": {
+            "positive": 0,
+            "negative": 0,
+            "neutral": 0,
+            "total_comments": 0,
+            "positive_pct": 0.0,
+            "negative_pct": 0.0,
+            "neutral_pct": 0.0,
+            "sample_size": 0
+        },
+        "keywords": [],
+        "suggestions": [
+            "High retention detected. Replicate this format with a series-based content plan.",
+            "Add targeted trending hashtags plus niche hashtags for better discovery."
+        ],
+        "timestamp": "2026-04-18 17:26:43",
+        "source": "instaloader",
+        "is_estimated": false
+    },
+    {
+        "post_url": "https://www.instagram.com/reel/DXPBVT9j7V8/?igsh=Z214OGwxdjQ4ZDEx",
+        "likes": 224885,
+        "views": 1125810,
+        "comments_count": 311,
+        "likes_display": "224.9K",
+        "views_display": "1.1M",
+        "comments_count_display": "311",
+        "caption": "Pt sirrr... Pt sirrr...\ud83e\udd2d\n.\nBecause Taiwan's education is predominantly Mandarin-based, most children stop speaking Taiwanese once they start school.\nAs Xing-fei prepared to enter elementary school last year, Huang was deeply concerned. Fortunately, Beiling Elementary School in Kaohsiung emerged as Taiwan's first \"Taiwanese Language Experimental Elementary School,\" allowing students to receive an education within the formal system using Taiwanese as the primary language and Mandarin as a supplement. The school transitioned from a traditional model and is not close to the Huang family's home in the Qiaotou District. However, after discussing it with his wife, the couple decided to spend over half an hour commuting each way every day to drop off and pick up their daughter in the Luzhu District, making her part of the first wave of freshmen since Beiling's transformation.",
+        "retention_score": 19.98,
+        "retention_level": "Medium",
+        "sentiment": {
+            "positive": 0,
+            "negative": 0,
+            "neutral": 0,
+            "total_comments": 0,
+            "positive_pct": 0.0,
+            "negative_pct": 0.0,
+            "neutral_pct": 0.0,
+            "sample_size": 0
+        },
+        "keywords": [],
+        "suggestions": [
+            "Retention is moderate; test stronger mid-video pattern interrupts.",
+            "Add an explicit call-to-action in the final 20% of the reel.",
+            "Add targeted trending hashtags plus niche hashtags for better discovery."
+        ],
+        "timestamp": "2026-04-18 17:32:23",
+        "source": "instaloader",
+        "is_estimated": false
+    },
+    {
+        "post_url": "https://www.instagram.com/reel/DWCOq7VyO27/?igsh=MW9qaHlybDk4Ym10MA==",
+        "likes": 37,
+        "views": 202,
+        "comments_count": 0,
+        "likes_display": "37",
+        "views_display": "202",
+        "comments_count_display": "0",
+        "caption": "Routine",
+        "retention_score": 18.32,
+        "retention_level": "Medium",
+        "sentiment": {
+            "positive": 0,
+            "negative": 0,
+            "neutral": 0,
+            "total_comments": 0,
+            "positive_pct": 0.0,
+            "negative_pct": 0.0,
+            "neutral_pct": 0.0,
+            "sample_size": 0
+        },
+        "keywords": [],
+        "suggestions": [
+            "Retention is moderate; test stronger mid-video pattern interrupts.",
+            "Add an explicit call-to-action in the final 20% of the reel.",
+            "Add targeted trending hashtags plus niche hashtags for better discovery."
+        ],
+        "comments": [],
+        "comments_source": "unavailable",
+        "like_rate": 18.32,
+        "comment_rate": 0.0,
+        "engagement_rate": 18.32,
+        "interaction_ratio": 0.0,
+        "timestamp": "2026-04-18 18:32:51",
+        "source": "instaloader",
+        "is_estimated": false
+    },
+    {
+        "post_url": "https://www.instagram.com/reel/DXPBVT9j7V8/?igsh=Z214OGwxdjQ4ZDEx",
+        "likes": 233975,
+        "views": 1176936,
+        "comments_count": 323,
+        "likes_display": "234.0K",
+        "views_display": "1.2M",
+        "comments_count_display": "323",
+        "caption": "Pt sirrr... Pt sirrr...\ud83e\udd2d\n.\nBecause Taiwan's education is predominantly Mandarin-based, most children stop speaking Taiwanese once they start school.\nAs Xing-fei prepared to enter elementary school last year, Huang was deeply concerned. Fortunately, Beiling Elementary School in Kaohsiung emerged as Taiwan's first \"Taiwanese Language Experimental Elementary School,\" allowing students to receive an education within the formal system using Taiwanese as the primary language and Mandarin as a supplement. The school transitioned from a traditional model and is not close to the Huang family's home in the Qiaotou District. However, after discussing it with his wife, the couple decided to spend over half an hour commuting each way every day to drop off and pick up their daughter in the Luzhu District, making her part of the first wave of freshmen since Beiling's transformation.",
+        "retention_score": 19.88,
+        "retention_level": "Medium",
+        "sentiment": {
+            "positive": 0,
+            "negative": 0,
+            "neutral": 0,
+            "total_comments": 0,
+            "positive_pct": 0.0,
+            "negative_pct": 0.0,
+            "neutral_pct": 0.0,
+            "sample_size": 0
+        },
+        "keywords": [],
+        "suggestions": [
+            "Retention is moderate; test stronger mid-video pattern interrupts.",
+            "Add an explicit call-to-action in the final 20% of the reel.",
+            "Add targeted trending hashtags plus niche hashtags for better discovery."
+        ],
+        "comments": [],
+        "comments_source": "unavailable",
+        "like_rate": 19.88,
+        "comment_rate": 0.03,
+        "engagement_rate": 19.91,
+        "interaction_ratio": 0.14,
+        "timestamp": "2026-04-18 18:33:43",
+        "source": "instaloader",
+        "is_estimated": false
+    },
+    {
+        "post_url": "https://www.instagram.com/reel/DXPBVT9j7V8/?igsh=Z214OGwxdjQ4ZDEx",
+        "likes": 237766,
+        "views": 1198193,
+        "comments_count": 330,
+        "likes_display": "237.8K",
+        "views_display": "1.2M",
+        "comments_count_display": "330",
+        "caption": "Pt sirrr... Pt sirrr...\ud83e\udd2d\n.\nBecause Taiwan's education is predominantly Mandarin-based, most children stop speaking Taiwanese once they start school.\nAs Xing-fei prepared to enter elementary school last year, Huang was deeply concerned. Fortunately, Beiling Elementary School in Kaohsiung emerged as Taiwan's first \"Taiwanese Language Experimental Elementary School,\" allowing students to receive an education within the formal system using Taiwanese as the primary language and Mandarin as a supplement. The school transitioned from a traditional model and is not close to the Huang family's home in the Qiaotou District. However, after discussing it with his wife, the couple decided to spend over half an hour commuting each way every day to drop off and pick up their daughter in the Luzhu District, making her part of the first wave of freshmen since Beiling's transformation.",
+        "retention_score": 19.84,
+        "retention_level": "Medium",
+        "sentiment": {
+            "positive": 0,
+            "negative": 0,
+            "neutral": 0,
+            "total_comments": 0,
+            "positive_pct": 0.0,
+            "negative_pct": 0.0,
+            "neutral_pct": 0.0,
+            "sample_size": 0
+        },
+        "keywords": [],
+        "suggestions": [
+            "Retention is moderate; test stronger mid-video pattern interrupts.",
+            "Add an explicit call-to-action in the final 20% of the reel.",
+            "Add targeted trending hashtags plus niche hashtags for better discovery."
+        ],
+        "comments": [],
+        "comments_source": "unavailable",
+        "like_rate": 19.84,
+        "comment_rate": 0.03,
+        "engagement_rate": 19.87,
+        "interaction_ratio": 0.14,
+        "timestamp": "2026-04-18 18:56:13",
+        "source": "instaloader",
+        "is_estimated": false
+    },
+    {
+        "post_url": "https://www.instagram.com/reel/DXPBVT9j7V8/?igsh=Z214OGwxdjQ4ZDEx",
+        "likes": 237816,
+        "views": 1198516,
+        "comments_count": 331,
+        "likes_display": "237.8K",
+        "views_display": "1.2M",
+        "comments_count_display": "331",
+        "caption": "Pt sirrr... Pt sirrr...\ud83e\udd2d\n.\nBecause Taiwan's education is predominantly Mandarin-based, most children stop speaking Taiwanese once they start school.\nAs Xing-fei prepared to enter elementary school last year, Huang was deeply concerned. Fortunately, Beiling Elementary School in Kaohsiung emerged as Taiwan's first \"Taiwanese Language Experimental Elementary School,\" allowing students to receive an education within the formal system using Taiwanese as the primary language and Mandarin as a supplement. The school transitioned from a traditional model and is not close to the Huang family's home in the Qiaotou District. However, after discussing it with his wife, the couple decided to spend over half an hour commuting each way every day to drop off and pick up their daughter in the Luzhu District, making her part of the first wave of freshmen since Beiling's transformation.",
+        "retention_score": 19.84,
+        "retention_level": "Medium",
+        "sentiment": {
+            "positive": 0,
+            "negative": 0,
+            "neutral": 0,
+            "total_comments": 0,
+            "positive_pct": 0.0,
+            "negative_pct": 0.0,
+            "neutral_pct": 0.0,
+            "sample_size": 0
+        },
+        "keywords": [],
+        "suggestions": [
+            "Retention is moderate; test stronger mid-video pattern interrupts.",
+            "Add an explicit call-to-action in the final 20% of the reel.",
+            "Add targeted trending hashtags plus niche hashtags for better discovery."
+        ],
+        "comments": [],
+        "comments_source": "unavailable",
+        "like_rate": 19.84,
+        "comment_rate": 0.03,
+        "engagement_rate": 19.87,
+        "interaction_ratio": 0.14,
+        "timestamp": "2026-04-18 18:56:33",
+        "source": "instaloader",
+        "is_estimated": false
+    },
+    {
+        "post_url": "https://www.instagram.com/reel/DXQS6Q2EpqA/?igsh=aGZiazFuenJhdGRl",
+        "likes": 22592,
+        "views": 150806,
+        "comments_count": 314,
+        "likes_display": "22.6K",
+        "views_display": "150.8K",
+        "comments_count_display": "314",
+        "caption": "Delhi \n\ud83c\uddef\ud83c\uddf5 1 \u0c2e\u0c3e\u0c15\u0c4d (\u0c38\u0c41\u0c2e\u0c3e\u0c30\u0c41 1330 \u0c15\u0c3f\u0c32\u0c4b\u0c2e\u0c40\u0c1f\u0c30\u0c4d\u0c32\u0c41/\u0c17\u0c02\u0c1f) \u0c35\u0c47\u0c17\u0c02\u0c24\u0c4b \u0c1c\u0c2a\u0c3e\u0c28\u0c4d\u200c\u0c28\u0c41 \u0c26\u0c3e\u0c1f\u0c47 \u0c05\u0c28\u0c41\u0c2d\u0c35\u0c02.\n\u0c2a\u0c4d\u0c30\u0c38\u0c4d\u0c24\u0c41\u0c24\u0c02, \u0c1c\u0c2a\u0c3e\u0c28\u0c4d\u200c\u0c32\u0c4b \u0c05\u0c24\u0c4d\u0c2f\u0c02\u0c24 \u0c35\u0c47\u0c17\u0c02\u0c17\u0c3e \u0c28\u0c21\u0c3f\u0c1a\u0c47 \u0c30\u0c48\u0c32\u0c41 \u0c38\u0c41\u0c2e\u0c3e\u0c30\u0c41 320 \u0c15\u0c3f\u0c32\u0c4b\u0c2e\u0c40\u0c1f\u0c30\u0c4d\u0c32\u0c41/\u0c17\u0c02\u0c1f \u0c35\u0c47\u0c17\u0c02\u0c24\u0c4b \u0c2a\u0c4d\u0c30\u0c2f\u0c3e\u0c23\u0c3f\u0c38\u0c4d\u0c24\u0c41\u0c02\u0c26\u0c3f. \u0c05\u0c2f\u0c3f\u0c24\u0c47, \u0c05\u0c24\u0c4d\u0c2f\u0c3e\u0c27\u0c41\u0c28\u0c3f\u0c15 \u0c2e\u0c3e\u0c17\u0c4d\u200c\u0c32\u0c46\u0c35\u0c4d (Maglev) \u0c35\u0c02\u0c1f\u0c3f \u0c2a\u0c4d\u0c30\u0c2f\u0c4b\u0c17\u0c3e\u0c24\u0c4d\u0c2e\u0c15 \u0c38\u0c3f\u0c38\u0c4d\u0c1f\u0c2e\u0c4d\u200c\u0c32\u0c32\u0c4b \u0c28\u0c3f\u0c2f\u0c02\u0c24\u0c4d\u0c30\u0c3f\u0c24 \u0c2a\u0c30\u0c3f\u0c38\u0c4d\u0c25\u0c3f\u0c24\u0c41\u0c32\u0c4d\u0c32\u0c4b 600 \u0c15\u0c3f\u0c32\u0c4b\u0c2e\u0c40\u0c1f\u0c30\u0c4d\u0c32\u0c41/\u0c17\u0c02\u0c1f\u0c15\u0c41 \u0c2a\u0c48\u0c17\u0c3e \u0c35\u0c47\u0c17\u0c3e\u0c32\u0c41 \u0c38\u0c3e\u0c27\u0c3f\u0c02\u0c1a\u0c2c\u0c21\u0c4d\u0c21\u0c3e\u0c2f\u0c3f. \u0c08 \u0c38\u0c3f\u0c2e\u0c4d\u0c2f\u0c41\u0c32\u0c47\u0c37\u0c28\u0c4d \u0c2a\u0c4d\u0c30\u0c38\u0c4d\u0c24\u0c41\u0c24 \u0c38\u0c4d\u0c25\u0c3e\u0c2f\u0c3f\u0c28\u0c3f \u0c2e\u0c3f\u0c02\u0c1a\u0c3f \u0c09\u0c02\u0c21\u0c3f, \u0c06\u0c27\u0c41\u0c28\u0c3f\u0c15 \u0c30\u0c48\u0c32\u0c4d\u0c35\u0c47 \u0c15\u0c3e\u0c28\u0c4d\u0c38\u0c46\u0c2a\u0c4d\u0c1f\u0c4d\u200c\u0c32\u0c41 \u0c2d\u0c35\u0c3f\u0c37\u0c4d\u0c2f\u0c24\u0c4d\u0c24\u0c41\u0c32\u0c4b \u0c28\u0c3f\u0c1c\u0c2e\u0c48\u0c28 \u0c38\u0c42\u0c2a\u0c30\u0c4d \u0c39\u0c48-\u0c38\u0c4d\u0c2a\u0c40\u0c21\u0c4d \u0c38\u0c3f\u0c38\u0c4d\u0c1f\u0c2e\u0c4d\u200c\u0c32\u0c41\u0c17\u0c3e \u0c0e\u0c32\u0c3e \u0c2e\u0c3e\u0c30\u0c24\u0c3e\u0c2f\u0c4b \u0c2a\u0c30\u0c3f\u0c36\u0c40\u0c32\u0c3f\u0c38\u0c4d\u0c24\u0c41\u0c02\u0c26\u0c3f.\n\u0c07\u0c02\u0c24 \u0c0e\u0c15\u0c4d\u0c15\u0c41\u0c35 \u0c35\u0c47\u0c17\u0c3e\u0c28\u0c4d\u0c28\u0c3f \u0c38\u0c3e\u0c27\u0c3f\u0c02\u0c1a\u0c21\u0c3e\u0c28\u0c3f\u0c15\u0c3f \u0c15\u0c47\u0c35\u0c32\u0c02 \u0c36\u0c15\u0c4d\u0c24\u0c3f \u0c38\u0c30\u0c3f\u0c2a\u0c4b\u0c26\u0c41. \u0c07\u0c02\u0c1c\u0c28\u0c40\u0c30\u0c4d\u0c32\u0c41 \u0c2e\u0c3e\u0c17\u0c4d\u200c\u0c32\u0c46\u0c35\u0c4d \u0c1f\u0c46\u0c15\u0c4d\u0c28\u0c3e\u0c32\u0c1c\u0c40, \u0c26\u0c3e\u0c26\u0c3e\u0c2a\u0c41 \u0c36\u0c42\u0c28\u0c4d\u0c2f \u0c18\u0c30\u0c4d\u0c37\u0c23 \u0c17\u0c32 \u0c1f\u0c4d\u0c30\u0c3e\u0c15\u0c4d\u200c\u0c32\u0c41, \u0c05\u0c32\u0c3e\u0c17\u0c47 \u0c35\u0c3e\u0c15\u0c4d\u0c2f\u0c42\u0c2e\u0c4d \u0c32\u0c47\u0c26\u0c3e \u0c24\u0c15\u0c4d\u0c15\u0c41\u0c35 \u0c2a\u0c40\u0c21\u0c28 \u0c1f\u0c4d\u0c2f\u0c42\u0c2c\u0c4d \u0c38\u0c3f\u0c38\u0c4d\u0c1f\u0c2e\u0c4d\u200c\u0c32\u0c28\u0c41 \u0c05\u0c2d\u0c3f\u0c35\u0c43\u0c26\u0c4d\u0c27\u0c3f \u0c1a\u0c47\u0c38\u0c4d\u0c24\u0c41\u0c28\u0c4d\u0c28\u0c3e\u0c30\u0c41. \u0c07\u0c35\u0c3f \u0c05\u0c24\u0c4d\u0c2f\u0c02\u0c24 \u0c35\u0c47\u0c17\u0c02\u0c24\u0c4b \u0c2a\u0c4d\u0c30\u0c2f\u0c3e\u0c23\u0c02\u0c32\u0c4b \u0c2a\u0c4d\u0c30\u0c27\u0c3e\u0c28 \u0c05\u0c21\u0c4d\u0c21\u0c02\u0c15\u0c3f \u0c05\u0c2f\u0c3f\u0c28 \u0c17\u0c3e\u0c32\u0c3f \u0c2a\u0c4d\u0c30\u0c24\u0c3f\u0c18\u0c1f\u0c28\u0c28\u0c41 \u0c24\u0c17\u0c4d\u0c17\u0c3f\u0c02\u0c1a\u0c21\u0c3e\u0c28\u0c3f\u0c15\u0c3f \u0c09\u0c2a\u0c2f\u0c4b\u0c17\u0c2a\u0c21\u0c24\u0c3e\u0c2f\u0c3f.\n\u0c38\u0c42\u0c2a\u0c30\u0c4d\u200c\u0c38\u0c4b\u0c28\u0c3f\u0c15\u0c4d \u0c35\u0c47\u0c17\u0c3e\u0c32\u0c4d\u0c32\u0c4b, \u0c1a\u0c3f\u0c28\u0c4d\u0c28 \u0c17\u0c3e\u0c32\u0c3f \u0c05\u0c02\u0c24\u0c30\u0c3e\u0c2f\u0c3e\u0c32\u0c41 \u0c15\u0c42\u0c21\u0c3e \u0c28\u0c3f\u0c30\u0c4d\u0c2e\u0c3e\u0c23\u0c02\u0c2a\u0c48 \u0c24\u0c40\u0c35\u0c4d\u0c30\u0c2e\u0c48\u0c28 \u0c2a\u0c4d\u0c30\u0c2d\u0c3e\u0c35\u0c02 \u0c1a\u0c42\u0c2a\u0c41\u0c24\u0c3e\u0c2f\u0c3f. \u0c05\u0c02\u0c26\u0c41\u0c35\u0c32\u0c4d\u0c32, \u0c2d\u0c35\u0c3f\u0c37\u0c4d\u0c2f\u0c24\u0c4d\u0c24\u0c41\u0c32\u0c4b\u0c28\u0c3f \u0c39\u0c48-\u0c38\u0c4d\u0c2a\u0c40\u0c21\u0c4d \u0c30\u0c48\u0c32\u0c4d\u0c35\u0c47 \u0c15\u0c3e\u0c28\u0c4d\u0c38\u0c46\u0c2a\u0c4d\u0c1f\u0c4d\u200c\u0c32\u0c41 \u0c08 \u0c38\u0c35\u0c3e\u0c33\u0c4d\u0c32\u0c28\u0c41 \u0c05\u0c27\u0c3f\u0c17\u0c2e\u0c3f\u0c02\u0c1a\u0c21\u0c3e\u0c28\u0c3f\u0c15\u0c3f \u0c30\u0c42\u0c2a\u0c4a\u0c02\u0c26\u0c3f\u0c02\u0c1a\u0c2c\u0c21\u0c41\u0c24\u0c41\u0c28\u0c4d\u0c28\u0c3e\u0c2f\u0c3f.\n\ud83c\uddef\ud83c\uddf5 \u0c08 \u0c38\u0c4d\u0c25\u0c3e\u0c2f\u0c3f \u0c35\u0c47\u0c17\u0c3e\u0c28\u0c4d\u0c28\u0c3f \u0c1a\u0c47\u0c30\u0c41\u0c15\u0c41\u0c28\u0c4d\u0c28\u0c2a\u0c4d\u0c2a\u0c41\u0c21\u0c41, \u0c30\u0c48\u0c32\u0c41 \u0c28\u0c47\u0c32\u0c2a\u0c48 \u0c15\u0c26\u0c32\u0c21\u0c02 \u0c15\u0c02\u0c1f\u0c47, \u0c36\u0c2c\u0c4d\u0c26 \u0c35\u0c47\u0c17\u0c02\u0c24\u0c4b \u0c2e\u0c41\u0c02\u0c26\u0c41\u0c15\u0c41 \u0c26\u0c42\u0c38\u0c41\u0c15\u0c41\u0c2a\u0c4b\u0c24\u0c41\u0c02\u0c26\u0c3f \ud83d\ude80\ud83c\udf0e.\n\u0c08 \u0c38\u0c3f\u0c2e\u0c4d\u0c2f\u0c41\u0c32\u0c47\u0c37\u0c28\u0c4d 1 \u0c2e\u0c3e\u0c15\u0c4d (\u0c38\u0c41\u0c2e\u0c3e\u0c30\u0c41 1330 \u0c15\u0c3f\u0c32\u0c4b\u0c2e\u0c40\u0c1f\u0c30\u0c4d\u0c32\u0c41/\u0c17\u0c02\u0c1f) \u0c35\u0c47\u0c17\u0c02\u0c24\u0c4b \u0c1c\u0c2a\u0c3e\u0c28\u0c4d\u200c\u0c28\u0c41 \u0c26\u0c3e\u0c1f\u0c47 \u0c2a\u0c4d\u0c30\u0c2f\u0c3e\u0c23 \u0c05\u0c28\u0c41\u0c2d\u0c35\u0c3e\u0c28\u0c4d\u0c28\u0c3f \u0c1a\u0c42\u0c2a\u0c3f\u0c38\u0c4d\u0c24\u0c41\u0c02\u0c26\u0c3f. \u0c2a\u0c4d\u0c30\u0c38\u0c4d\u0c24\u0c41\u0c24\u0c02 \u0c1c\u0c2a\u0c3e\u0c28\u0c4d\u200c\u0c32\u0c4b \u0c05\u0c24\u0c4d\u0c2f\u0c02\u0c24 \u0c35\u0c47\u0c17\u0c02\u0c17\u0c3e \u0c28\u0c21\u0c3f\u0c1a\u0c47 \u0c30\u0c48\u0c32\u0c41 \u0c38\u0c41\u0c2e\u0c3e\u0c30\u0c41 320 \u0c15\u0c3f\u0c32\u0c4b\u0c2e\u0c40\u0c1f\u0c30\u0c4d\u0c32\u0c41/\u0c17\u0c02\u0c1f \u0c2e\u0c3e\u0c24\u0c4d\u0c30\u0c2e\u0c47, \u0c15\u0c3e\u0c28\u0c40 \u0c2e\u0c3e\u0c17\u0c4d\u200c\u0c32\u0c46\u0c35\u0c4d \u0c35\u0c02\u0c1f\u0c3f \u0c38\u0c3f\u0c38\u0c4d\u0c1f\u0c2e\u0c4d\u200c\u0c32\u0c32\u0c4b \u0c07\u0c2a\u0c4d\u0c2a\u0c1f\u0c3f\u0c15\u0c47 600 \u0c15\u0c3f\u0c32\u0c4b\u0c2e\u0c40\u0c1f\u0c30\u0c4d\u0c32\u0c41/\u0c17\u0c02\u0c1f\u0c15\u0c41 \u0c2a\u0c48\u0c17\u0c3e \u0c38\u0c3e\u0c27\u0c3f\u0c02\u0c1a\u0c2c\u0c21\u0c3f\u0c02\u0c26\u0c3f. \u0c08 \u0c38\u0c3f\u0c2e\u0c4d\u0c2f\u0c41\u0c32\u0c47\u0c37\u0c28\u0c4d \u0c2d\u0c35\u0c3f\u0c37\u0c4d\u0c2f\u0c24\u0c4d\u0c24\u0c41\u0c32\u0c4b \u0c2e\u0c30\u0c3f\u0c02\u0c24 \u0c35\u0c47\u0c17\u0c35\u0c02\u0c24\u0c2e\u0c48\u0c28 \u0c30\u0c48\u0c32\u0c4d\u0c35\u0c47 \u0c35\u0c4d\u0c2f\u0c35\u0c38\u0c4d\u0c25\u0c32 \u0c38\u0c3e\u0c27\u0c4d\u0c2f\u0c3e\u0c38\u0c3e\u0c27\u0c4d\u0c2f\u0c3e\u0c32\u0c28\u0c41 \u0c05\u0c28\u0c4d\u0c35\u0c47\u0c37\u0c3f\u0c38\u0c4d\u0c24\u0c41\u0c02\u0c26\u0c3f.",
+        "retention_score": 14.98,
+        "retention_level": "Medium",
+        "sentiment": {
+            "positive": 0,
+            "negative": 0,
+            "neutral": 0,
+            "total_comments": 0,
+            "positive_pct": 0.0,
+            "negative_pct": 0.0,
+            "neutral_pct": 0.0,
+            "sample_size": 0
+        },
+        "keywords": [],
+        "suggestions": [
+            "Retention is moderate; test stronger mid-video pattern interrupts.",
+            "Add an explicit call-to-action in the final 20% of the reel.",
+            "Add targeted trending hashtags plus niche hashtags for better discovery."
+        ],
+        "comments": [],
+        "comments_source": "unavailable",
+        "like_rate": 14.98,
+        "comment_rate": 0.21,
+        "engagement_rate": 15.19,
+        "interaction_ratio": 1.39,
+        "timestamp": "2026-04-18 19:04:44",
+        "source": "instaloader",
+        "is_estimated": false
+    },
+    {
+        "post_url": "https://www.instagram.com/reel/DXkBlPoMBxX/?igsh=a20zcHFucHZvZmxu",
+        "likes": 26274,
+        "views": 125831,
+        "comments_count": 101,
+        "likes_display": "26.3K",
+        "views_display": "125.8K",
+        "comments_count_display": "101",
+        "caption": "He loves batting against Rajasthan Royals \ud83d\ude2e\u200d\ud83d\udca8\n\n@ishankishan23 smashes another half century against RR and the streak continues.\n\n#TATAIPL 2026 | #RRvSRH | LIVE NOW!",
+        "retention_score": 20.88,
+        "retention_level": "High",
+        "keywords": [
+            [
+                "against",
+                2
+            ],
+            [
+                "loves",
+                1
+            ],
+            [
+                "batting",
+                1
+            ],
+            [
+                "rajasthan",
+                1
+            ],
+            [
+                "royals",
+                1
+            ],
+            [
+                "ishankishan",
+                1
+            ],
+            [
+                "smashes",
+                1
+            ],
+            [
+                "another",
+                1
+            ],
+            [
+                "half",
+                1
+            ],
+            [
+                "century",
+                1
+            ]
+        ],
+        "suggestions": [
+            "High retention detected. Replicate this format with a series-based content plan.",
+            "Add targeted trending hashtags plus niche hashtags for better discovery."
+        ],
+        "like_rate": 20.88,
+        "comment_rate": 0.08,
+        "engagement_rate": 20.96,
+        "interaction_ratio": 0.38,
+        "timestamp": "2026-04-25 23:30:45",
+        "source": "instaloader",
+        "is_estimated": false
+    },
+    {
+        "post_url": "https://www.instagram.com/reel/DXkBlPoMBxX/?igsh=a20zcHFucHZvZmxu",
+        "likes": 40268,
+        "views": 176032,
+        "comments_count": 118,
+        "likes_display": "40.3K",
+        "views_display": "176.0K",
+        "comments_count_display": "118",
+        "caption": "He loves batting against Rajasthan Royals \ud83d\ude2e\u200d\ud83d\udca8\n\n@ishankishan23 smashes another half century against RR and the streak continues.\n\n#TATAIPL 2026 | #RRvSRH | LIVE NOW!",
+        "retention_score": 22.88,
+        "retention_level": "High",
+        "keywords": [
+            [
+                "against",
+                2
+            ],
+            [
+                "loves",
+                1
+            ],
+            [
+                "batting",
+                1
+            ],
+            [
+                "rajasthan",
+                1
+            ],
+            [
+                "royals",
+                1
+            ],
+            [
+                "ishankishan",
+                1
+            ],
+            [
+                "smashes",
+                1
+            ],
+            [
+                "another",
+                1
+            ],
+            [
+                "half",
+                1
+            ],
+            [
+                "century",
+                1
+            ]
+        ],
+        "performance": "Excellent",
+        "reason": "Strong engagement (22.94%) driven by likes (22.88%), meaning the reel is resonating and people are reacting. Comments are comparatively low, so the reel entertains/informs but doesn\u2019t strongly invite conversation. Likely issues: low conversation trigger (CTA), poor audience interaction.",
+        "suggestions": [
+            "Turn this into a 3-part series and pin Part 1 to convert momentum into follows.",
+            "Post 3 hook variations of the same reel (same body, new first 2 seconds) to scale reach.",
+            "Add a 1-line CTA question on-screen to push comments (e.g., \u201cWhich would you pick: A or B?\u201d).",
+            "Make a follow-up reel answering the top question about against and link it via caption/pin."
+        ],
+        "like_rate": 22.88,
+        "comment_rate": 0.07,
+        "engagement_rate": 22.94,
+        "interaction_ratio": 0.29,
+        "timestamp": "2026-04-25 23:46:55",
+        "source": "instaloader",
+        "is_estimated": false
+    },
+    {
+        "post_url": "https://www.instagram.com/reel/DWCOq7VyO27/?igsh=MW9qaHlybDk4Ym10MA==",
+        "likes": 37,
+        "views": 208,
+        "comments_count": 0,
+        "likes_display": "37",
+        "views_display": "208",
+        "comments_count_display": "0",
+        "caption": "Routine",
+        "retention_score": 17.79,
+        "retention_level": "Medium",
+        "keywords": [
+            [
+                "routine",
+                1
+            ]
+        ],
+        "performance": "Excellent",
+        "reason": "Strong engagement (17.79%) driven by likes (17.79%), meaning the reel is resonating and people are reacting. Comments are comparatively low, so the reel entertains/informs but doesn\u2019t strongly invite conversation. Likely issues: low conversation trigger (CTA), poor audience interaction.",
+        "suggestions": [
+            "Turn this into a 3-part series and pin Part 1 to convert momentum into follows.",
+            "Post 3 hook variations of the same reel (same body, new first 2 seconds) to scale reach.",
+            "Add a 1-line CTA question on-screen to push comments (e.g., \u201cWhich would you pick: A or B?\u201d).",
+            "Make a follow-up reel answering the top question about routine and link it via caption/pin."
+        ],
+        "like_rate": 17.79,
+        "comment_rate": 0.0,
+        "engagement_rate": 17.79,
+        "interaction_ratio": 0.0,
+        "timestamp": "2026-04-25 23:51:47",
+        "source": "instaloader",
+        "is_estimated": false
+    },
+    {
+        "post_url": "https://www.instagram.com/reel/DTvUDicEuI2/?igsh=MTFpNnVqbmNkbG5xcA==",
+        "likes": 140,
+        "views": 1270,
+        "comments_count": 1,
+        "likes_display": "140",
+        "views_display": "1.3K",
+        "comments_count_display": "1",
+        "caption": "A day of my life \u2764\ufe0f\n\nToday's split was Lats and Triceps\n\nLats variations are\nLats pull down 4sets 12reps\nFront pull down 4sets 12reps\nSeated rope pull 4sets 12reps\n\nTriceps variations are\nCable pushdown 5sets 12reps\nCable rope pushdown 5sets 12reps\n\n#ironhousegym \n#latsworkout \n#tricepsworkout \n#instafeed \n#gymmotivation",
+        "retention_score": 11.02,
+        "retention_level": "Medium",
+        "keywords": [
+            [
+                "sets",
+                5
+            ],
+            [
+                "reps",
+                5
+            ],
+            [
+                "lats",
+                3
+            ],
+            [
+                "pull",
+                3
+            ],
+            [
+                "triceps",
+                2
+            ],
+            [
+                "variations",
+                2
+            ],
+            [
+                "down",
+                2
+            ],
+            [
+                "rope",
+                2
+            ],
+            [
+                "cable",
+                2
+            ],
+            [
+                "pushdown",
+                2
+            ]
+        ],
+        "performance": "Excellent",
+        "reason": "Strong engagement (11.1%) driven by likes (11.02%) shows the reel is resonating and earning reactions. Interaction is comparatively low, so it performs more as a quick win than an action-driver. Likely issues: weak CTA or positioning.",
+        "suggestions": [
+            "Remix into a shorter cut (8\u201312s) and test as a punchier version.",
+            "Add pattern-interrupts (zoom, b-roll, captions) every 2\u20133 seconds to prevent swipes.",
+            "Add one clear CTA: \u201cSave this\u201d + a reason (template/checklist/steps) to increase saves.",
+            "Film a common-mistake reel about sets and end with the correct fix."
+        ],
+        "like_rate": 11.02,
+        "comment_rate": 0.08,
+        "engagement_rate": 11.1,
+        "interaction_ratio": 0.71,
+        "timestamp": "2026-04-26 00:00:03",
+        "source": "instaloader",
+        "is_estimated": false
+    },
+    {
+        "post_url": "https://www.instagram.com/reel/DXj0NZtjAce/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==",
+        "likes": 151648,
+        "views": 1040737,
+        "comments_count": 249,
+        "likes_display": "151.6K",
+        "views_display": "1.0M",
+        "comments_count_display": "249",
+        "caption": "_\n #\ud83c\udde8\ud83c\udde6 \uff08\u0642\u0637\u0628 \u0634\u0645\u0627\u0644\u06cc \u062e\u0635\u0648\u0635\u06cc \u0641\u06cc\u0686\u0631\uff09 \u0646\u06d2 \u201cAurora Wind Harmony Grid\u201d \u0645\u062a\u0639\u0627\u0631\u0641 \u06a9\u0631\u0627\u06cc\u0627 \u06c1\u06d2!\n\n\u06cc\u06c1 \u0646\u0638\u0627\u0645 \u0645\u062c\u0645\u0648\u0639\u06cc \u0637\u0648\u0631 \u067e\u0631 620 \u06a9\u0644\u0648 \u0648\u0627\u0679 \u06a9\u0645 \u0634\u0648\u0631 \u0648\u0627\u0644\u06d2 \u0645\u0627\u0626\u06cc\u06a9\u0631\u0648 \u0648\u0646\u0688 \u0679\u0631\u0628\u0627\u0626\u0646\u0632 \u0627\u0648\u0631 \u0627\u0633\u0645\u0627\u0631\u0679 \u062a\u0648\u0627\u0646\u0627\u0626\u06cc \u0630\u062e\u06cc\u0631\u06c1 \u06a9\u0631\u0646\u06d2 \u0648\u0627\u0644\u06d2 \u0646\u06cc\u0679 \u0648\u0631\u06a9 \u06a9\u0648 \u06cc\u06a9\u062c\u0627 \u06a9\u0631\u062a\u0627 \u06c1\u06d2\u060c \u062c\u0648 \u0642\u0637\u0628\u06cc \u0639\u0644\u0627\u0642\u0648\u06ba \u06a9\u06cc \u0645\u0633\u062a\u0642\u0644 \u0633\u0631\u062f \u06c1\u0648\u0627\u0624\u06ba \u06a9\u0648 \u0627\u0633\u062a\u0639\u0645\u0627\u0644 \u06a9\u0631\u062a\u06d2 \u06c1\u0648\u0626\u06d2 \u0627\u06cc\u06a9 \u062a\u0642\u0633\u06cc\u0645 \u0634\u062f\u06c1 \u062a\u0648\u0627\u0646\u0627\u0626\u06cc \u0646\u0638\u0627\u0645 \u062a\u0634\u06a9\u06cc\u0644 \u062f\u06cc\u062a\u0627 \u06c1\u06d2\u06d4 \u062c\u06be\u06cc\u0644 \u06a9\u06d2 \u06a9\u0646\u0627\u0631\u0648\u06ba \u0627\u0648\u0631 \u0631\u06c1\u0627\u0626\u0634\u06cc \u0639\u0644\u0627\u0642\u0648\u06ba \u06a9\u06cc \u0686\u06be\u062a\u0648\u06ba \u067e\u0631 \u0646\u0635\u0628 \u0679\u0631\u0628\u0627\u0626\u0646\u0632 \u0627\u06cc\u0633\u06d2 \u06a9\u0627\u0645 \u06a9\u0631\u062a\u06cc \u06c1\u06cc\u06ba \u062c\u06cc\u0633\u06d2 \u0627\u06cc\u06a9 \u201c\u0646\u0638\u0631 \u0646\u06c1 \u0622\u0646\u06d2 \u0648\u0627\u0644\u0627 \u0622\u0631\u06a9\u0633\u0679\u0631\u0627\u201d\u060c \u062c\u0648 \u06c1\u0648\u0627 \u06a9\u0648 \u0628\u062c\u0644\u06cc \u0645\u06cc\u06ba \u062a\u0628\u062f\u06cc\u0644 \u06a9\u0631 \u06a9\u06d2 \u062a\u0642\u0631\u06cc\u0628\u0627\u064b 360 \u06af\u06be\u0631\u0648\u06ba \u06a9\u0648 \u0635\u0627\u0641 \u062a\u0648\u0627\u0646\u0627\u0626\u06cc \u0641\u0631\u0627\u06c1\u0645 \u06a9\u0631\u062a\u0627 \u06c1\u06d2\u06d4 \ud83c\udf2c\ufe0f\u26a1\ufe0f\ud83c\udf0c\n\n\u0634\u062f\u06cc\u062f \u0633\u0631\u062f \u0645\u0627\u062d\u0648\u0644 \u0645\u06cc\u06ba \u0628\u06be\u06cc \u06a9\u0627\u0631\u06a9\u0631\u062f\u06af\u06cc \u0628\u0631\u0642\u0631\u0627\u0631 \u0631\u06a9\u06be\u0646\u06d2 \u0648\u0627\u0644\u06d2 \u062e\u0635\u0648\u0635\u06cc \u0628\u0644\u06cc\u0688 \u0688\u06cc\u0632\u0627\u0626\u0646 \u0627\u0648\u0631 AI \u06a9\u0646\u0679\u0631\u0648\u0644 \u06a9\u06d2 \u0630\u0631\u06cc\u0639\u06d2\u060c \u06cc\u06c1 \u0646\u0638\u0627\u0645 \u0633\u0631\u062f\u06cc\u0648\u06ba \u0645\u06cc\u06ba \u062a\u0648\u0627\u0646\u0627\u0626\u06cc \u06a9\u06cc \u0637\u0644\u0628 \u06a9\u0627 \u062a\u0642\u0631\u06cc\u0628\u0627\u064b 25\u066a \u067e\u0648\u0631\u0627 \u06a9\u0631\u062a\u0627 \u06c1\u06d2\u06d4 \u0645\u0632\u06cc\u062f \u0628\u0631\u0622\u06ba\u060c \u06cc\u06c1 \u0633\u0627\u0644\u0627\u0646\u06c1 1,300 \u0679\u0646 \u0633\u06d2 \u0632\u0627\u0626\u062f CO\u2082 \u06a9\u06d2 \u0627\u062e\u0631\u0627\u062c \u0645\u06cc\u06ba \u06a9\u0645\u06cc \u0644\u0627\u062a\u0627 \u06c1\u06d2\u060c \u0627\u0648\u0631 \u0628\u0631\u0641\u06cc\u0644\u06d2 \u0645\u0646\u0627\u0638\u0631 \u0627\u0648\u0631 \u0631\u0627\u062a \u06a9\u06d2 \u0622\u0633\u0645\u0627\u0646 \u067e\u0631 \u062c\u06af\u0645\u06af\u0627\u062a\u06cc \u0631\u0648\u0634\u0646\u06cc\u0648\u06ba \u06a9\u0648 \u0645\u062d\u0641\u0648\u0638 \u0631\u06a9\u06be\u062a\u0627 \u06c1\u06d2\u06d4\n\nYellowknife \u0646\u06d2 \u0633\u062e\u062a \u0642\u062f\u0631\u062a\u06cc \u062d\u0627\u0644\u0627\u062a \u06a9\u0648 \u0627\u067e\u0646\u06cc \u0637\u0627\u0642\u062a \u0645\u06cc\u06ba \u0628\u062f\u0644 \u06a9\u0631 \u201c\u06c1\u0648\u0627 \u0627\u0648\u0631 \u0631\u0648\u0634\u0646\u06cc \u06a9\u06cc \u06c1\u0645 \u0622\u06c1\u0646\u06af\u06cc\u201d \u06a9\u06d2 \u0630\u0631\u06cc\u0639\u06d2 \u0627\u06cc\u06a9 \u067e\u0627\u0626\u06cc\u062f\u0627\u0631 \u0634\u06c1\u0631\u06cc \u0645\u0627\u0688\u0644 \u0642\u0627\u0626\u0645 \u06a9\u06cc\u0627 \u06c1\u06d2\u06d4\n\n\u0644\u0631\u0632\u062a\u06cc \u06c1\u0648\u0626\u06cc \u0631\u0648\u0634\u0646\u06cc\u0648\u06ba \u06a9\u06d2 \u0646\u06cc\u0686\u06d2\u060c \u06c1\u0648\u0627 \u0634\u06c1\u0631 \u06a9\u0648 \u0631\u0648\u0634\u0646 \u06a9\u0631\u062a\u06cc \u06c1\u06d2 \u2014 Yellowknife \u062e\u0627\u0645\u0648\u0634\u06cc \u0633\u06d2 \u0627\u06cc\u06a9 \u0627\u06cc\u0633\u0627 \u0645\u0633\u062a\u0642\u0628\u0644 \u062a\u0631\u062a\u06cc\u0628 \u062f\u06d2 \u0631\u06c1\u0627 \u06c1\u06d2 \u062c\u06c1\u0627\u06ba \u0641\u0637\u0631\u062a \u0627\u0648\u0631 \u0679\u06cc\u06a9\u0646\u0627\u0644\u0648\u062c\u06cc \u06c1\u0645 \u0622\u06c1\u0646\u06af \u06c1\u0648\u06ba\u06d4 \ud83c\udf0d\ud83d\udc9a\n\n#Yellowknife #Canada #WindEnergy #AuroraPower ArcticInnovation CleanEnergy SustainableNorth GreenLiving",
+        "retention_score": 14.57,
+        "retention_level": "Medium",
+        "keywords": [
+            [
+                "yellowknife",
+                3
+            ],
+            [
+                "aurora",
+                1
+            ],
+            [
+                "wind",
+                1
+            ],
+            [
+                "harmony",
+                1
+            ],
+            [
+                "grid",
+                1
+            ],
+            [
+                "canada",
+                1
+            ],
+            [
+                "windenergy",
+                1
+            ],
+            [
+                "aurorapower",
+                1
+            ],
+            [
+                "arcticinnovation",
+                1
+            ],
+            [
+                "cleanenergy",
+                1
+            ]
+        ],
+        "performance": "Excellent",
+        "reason": "Strong engagement (14.6%) driven by likes (14.57%) shows the reel is resonating and earning reactions. Interaction is comparatively low, so it performs more as a quick win than an action-driver. Likely issues: weak CTA or positioning.",
+        "suggestions": [
+            "Repeat the same format on 3 adjacent topics to build bingeable momentum.",
+            "Add pattern-interrupts (zoom, b-roll, captions) every 2\u20133 seconds to prevent swipes.",
+            "Pin a follow-up in the caption (\u201cPart 2 here\u201d) to create a binge path.",
+            "Make a follow-up reel that answers the next step after yellowknife and link it via caption/pin."
+        ],
+        "like_rate": 14.57,
+        "comment_rate": 0.02,
+        "engagement_rate": 14.6,
+        "interaction_ratio": 0.16,
+        "timestamp": "2026-04-26 19:43:44",
+        "source": "instaloader",
+        "is_estimated": false
+    },
+    {
+        "post_url": "https://www.instagram.com/reel/DXj0NZtjAce/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==",
+        "likes": 153843,
+        "views": 1056644,
+        "comments_count": 253,
+        "likes_display": "153.8K",
+        "views_display": "1.1M",
+        "comments_count_display": "253",
+        "caption": "_\n #\ud83c\udde8\ud83c\udde6 \uff08\u0642\u0637\u0628 \u0634\u0645\u0627\u0644\u06cc \u062e\u0635\u0648\u0635\u06cc \u0641\u06cc\u0686\u0631\uff09 \u0646\u06d2 \u201cAurora Wind Harmony Grid\u201d \u0645\u062a\u0639\u0627\u0631\u0641 \u06a9\u0631\u0627\u06cc\u0627 \u06c1\u06d2!\n\n\u06cc\u06c1 \u0646\u0638\u0627\u0645 \u0645\u062c\u0645\u0648\u0639\u06cc \u0637\u0648\u0631 \u067e\u0631 620 \u06a9\u0644\u0648 \u0648\u0627\u0679 \u06a9\u0645 \u0634\u0648\u0631 \u0648\u0627\u0644\u06d2 \u0645\u0627\u0626\u06cc\u06a9\u0631\u0648 \u0648\u0646\u0688 \u0679\u0631\u0628\u0627\u0626\u0646\u0632 \u0627\u0648\u0631 \u0627\u0633\u0645\u0627\u0631\u0679 \u062a\u0648\u0627\u0646\u0627\u0626\u06cc \u0630\u062e\u06cc\u0631\u06c1 \u06a9\u0631\u0646\u06d2 \u0648\u0627\u0644\u06d2 \u0646\u06cc\u0679 \u0648\u0631\u06a9 \u06a9\u0648 \u06cc\u06a9\u062c\u0627 \u06a9\u0631\u062a\u0627 \u06c1\u06d2\u060c \u062c\u0648 \u0642\u0637\u0628\u06cc \u0639\u0644\u0627\u0642\u0648\u06ba \u06a9\u06cc \u0645\u0633\u062a\u0642\u0644 \u0633\u0631\u062f \u06c1\u0648\u0627\u0624\u06ba \u06a9\u0648 \u0627\u0633\u062a\u0639\u0645\u0627\u0644 \u06a9\u0631\u062a\u06d2 \u06c1\u0648\u0626\u06d2 \u0627\u06cc\u06a9 \u062a\u0642\u0633\u06cc\u0645 \u0634\u062f\u06c1 \u062a\u0648\u0627\u0646\u0627\u0626\u06cc \u0646\u0638\u0627\u0645 \u062a\u0634\u06a9\u06cc\u0644 \u062f\u06cc\u062a\u0627 \u06c1\u06d2\u06d4 \u062c\u06be\u06cc\u0644 \u06a9\u06d2 \u06a9\u0646\u0627\u0631\u0648\u06ba \u0627\u0648\u0631 \u0631\u06c1\u0627\u0626\u0634\u06cc \u0639\u0644\u0627\u0642\u0648\u06ba \u06a9\u06cc \u0686\u06be\u062a\u0648\u06ba \u067e\u0631 \u0646\u0635\u0628 \u0679\u0631\u0628\u0627\u0626\u0646\u0632 \u0627\u06cc\u0633\u06d2 \u06a9\u0627\u0645 \u06a9\u0631\u062a\u06cc \u06c1\u06cc\u06ba \u062c\u06cc\u0633\u06d2 \u0627\u06cc\u06a9 \u201c\u0646\u0638\u0631 \u0646\u06c1 \u0622\u0646\u06d2 \u0648\u0627\u0644\u0627 \u0622\u0631\u06a9\u0633\u0679\u0631\u0627\u201d\u060c \u062c\u0648 \u06c1\u0648\u0627 \u06a9\u0648 \u0628\u062c\u0644\u06cc \u0645\u06cc\u06ba \u062a\u0628\u062f\u06cc\u0644 \u06a9\u0631 \u06a9\u06d2 \u062a\u0642\u0631\u06cc\u0628\u0627\u064b 360 \u06af\u06be\u0631\u0648\u06ba \u06a9\u0648 \u0635\u0627\u0641 \u062a\u0648\u0627\u0646\u0627\u0626\u06cc \u0641\u0631\u0627\u06c1\u0645 \u06a9\u0631\u062a\u0627 \u06c1\u06d2\u06d4 \ud83c\udf2c\ufe0f\u26a1\ufe0f\ud83c\udf0c\n\n\u0634\u062f\u06cc\u062f \u0633\u0631\u062f \u0645\u0627\u062d\u0648\u0644 \u0645\u06cc\u06ba \u0628\u06be\u06cc \u06a9\u0627\u0631\u06a9\u0631\u062f\u06af\u06cc \u0628\u0631\u0642\u0631\u0627\u0631 \u0631\u06a9\u06be\u0646\u06d2 \u0648\u0627\u0644\u06d2 \u062e\u0635\u0648\u0635\u06cc \u0628\u0644\u06cc\u0688 \u0688\u06cc\u0632\u0627\u0626\u0646 \u0627\u0648\u0631 AI \u06a9\u0646\u0679\u0631\u0648\u0644 \u06a9\u06d2 \u0630\u0631\u06cc\u0639\u06d2\u060c \u06cc\u06c1 \u0646\u0638\u0627\u0645 \u0633\u0631\u062f\u06cc\u0648\u06ba \u0645\u06cc\u06ba \u062a\u0648\u0627\u0646\u0627\u0626\u06cc \u06a9\u06cc \u0637\u0644\u0628 \u06a9\u0627 \u062a\u0642\u0631\u06cc\u0628\u0627\u064b 25\u066a \u067e\u0648\u0631\u0627 \u06a9\u0631\u062a\u0627 \u06c1\u06d2\u06d4 \u0645\u0632\u06cc\u062f \u0628\u0631\u0622\u06ba\u060c \u06cc\u06c1 \u0633\u0627\u0644\u0627\u0646\u06c1 1,300 \u0679\u0646 \u0633\u06d2 \u0632\u0627\u0626\u062f CO\u2082 \u06a9\u06d2 \u0627\u062e\u0631\u0627\u062c \u0645\u06cc\u06ba \u06a9\u0645\u06cc \u0644\u0627\u062a\u0627 \u06c1\u06d2\u060c \u0627\u0648\u0631 \u0628\u0631\u0641\u06cc\u0644\u06d2 \u0645\u0646\u0627\u0638\u0631 \u0627\u0648\u0631 \u0631\u0627\u062a \u06a9\u06d2 \u0622\u0633\u0645\u0627\u0646 \u067e\u0631 \u062c\u06af\u0645\u06af\u0627\u062a\u06cc \u0631\u0648\u0634\u0646\u06cc\u0648\u06ba \u06a9\u0648 \u0645\u062d\u0641\u0648\u0638 \u0631\u06a9\u06be\u062a\u0627 \u06c1\u06d2\u06d4\n\nYellowknife \u0646\u06d2 \u0633\u062e\u062a \u0642\u062f\u0631\u062a\u06cc \u062d\u0627\u0644\u0627\u062a \u06a9\u0648 \u0627\u067e\u0646\u06cc \u0637\u0627\u0642\u062a \u0645\u06cc\u06ba \u0628\u062f\u0644 \u06a9\u0631 \u201c\u06c1\u0648\u0627 \u0627\u0648\u0631 \u0631\u0648\u0634\u0646\u06cc \u06a9\u06cc \u06c1\u0645 \u0622\u06c1\u0646\u06af\u06cc\u201d \u06a9\u06d2 \u0630\u0631\u06cc\u0639\u06d2 \u0627\u06cc\u06a9 \u067e\u0627\u0626\u06cc\u062f\u0627\u0631 \u0634\u06c1\u0631\u06cc \u0645\u0627\u0688\u0644 \u0642\u0627\u0626\u0645 \u06a9\u06cc\u0627 \u06c1\u06d2\u06d4\n\n\u0644\u0631\u0632\u062a\u06cc \u06c1\u0648\u0626\u06cc \u0631\u0648\u0634\u0646\u06cc\u0648\u06ba \u06a9\u06d2 \u0646\u06cc\u0686\u06d2\u060c \u06c1\u0648\u0627 \u0634\u06c1\u0631 \u06a9\u0648 \u0631\u0648\u0634\u0646 \u06a9\u0631\u062a\u06cc \u06c1\u06d2 \u2014 Yellowknife \u062e\u0627\u0645\u0648\u0634\u06cc \u0633\u06d2 \u0627\u06cc\u06a9 \u0627\u06cc\u0633\u0627 \u0645\u0633\u062a\u0642\u0628\u0644 \u062a\u0631\u062a\u06cc\u0628 \u062f\u06d2 \u0631\u06c1\u0627 \u06c1\u06d2 \u062c\u06c1\u0627\u06ba \u0641\u0637\u0631\u062a \u0627\u0648\u0631 \u0679\u06cc\u06a9\u0646\u0627\u0644\u0648\u062c\u06cc \u06c1\u0645 \u0622\u06c1\u0646\u06af \u06c1\u0648\u06ba\u06d4 \ud83c\udf0d\ud83d\udc9a\n\n#Yellowknife #Canada #WindEnergy #AuroraPower ArcticInnovation CleanEnergy SustainableNorth GreenLiving",
+        "retention_score": 14.56,
+        "retention_level": "Medium",
+        "keywords": [
+            [
+                "yellowknife",
+                3
+            ],
+            [
+                "aurora",
+                1
+            ],
+            [
+                "wind",
+                1
+            ],
+            [
+                "harmony",
+                1
+            ],
+            [
+                "grid",
+                1
+            ],
+            [
+                "canada",
+                1
+            ],
+            [
+                "windenergy",
+                1
+            ],
+            [
+                "aurorapower",
+                1
+            ],
+            [
+                "arcticinnovation",
+                1
+            ],
+            [
+                "cleanenergy",
+                1
+            ]
+        ],
+        "performance": "Excellent",
+        "reason": "Strong engagement (14.58%) driven by likes (14.56%) shows the reel is resonating and earning reactions. Interaction is comparatively low, so it performs more as a quick win than an action-driver. Likely issues: weak CTA or positioning.",
+        "suggestions": [
+            "Post 2\u20133 hook variations of the same reel (same body, new first 2 seconds) to scale reach.",
+            "Tighten pacing with cuts every 1\u20132 seconds and bold on-screen text for key points.",
+            "Add one clear CTA: \u201cSave this\u201d + a reason (template/checklist/steps) to increase saves.",
+            "Make a follow-up reel that answers the next step after yellowknife and link it via caption/pin."
+        ],
+        "like_rate": 14.56,
+        "comment_rate": 0.02,
+        "engagement_rate": 14.58,
+        "interaction_ratio": 0.16,
+        "timestamp": "2026-04-26 19:57:22",
+        "source": "instaloader",
+        "is_estimated": false
+    },
+    {
+        "post_url": "https://www.instagram.com/reel/DXj0NZtjAce/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==",
+        "likes": 153926,
+        "views": 1057046,
+        "comments_count": 254,
+        "likes_display": "153.9K",
+        "views_display": "1.1M",
+        "comments_count_display": "254",
+        "caption": "_\n #\ud83c\udde8\ud83c\udde6 \uff08\u0642\u0637\u0628 \u0634\u0645\u0627\u0644\u06cc \u062e\u0635\u0648\u0635\u06cc \u0641\u06cc\u0686\u0631\uff09 \u0646\u06d2 \u201cAurora Wind Harmony Grid\u201d \u0645\u062a\u0639\u0627\u0631\u0641 \u06a9\u0631\u0627\u06cc\u0627 \u06c1\u06d2!\n\n\u06cc\u06c1 \u0646\u0638\u0627\u0645 \u0645\u062c\u0645\u0648\u0639\u06cc \u0637\u0648\u0631 \u067e\u0631 620 \u06a9\u0644\u0648 \u0648\u0627\u0679 \u06a9\u0645 \u0634\u0648\u0631 \u0648\u0627\u0644\u06d2 \u0645\u0627\u0626\u06cc\u06a9\u0631\u0648 \u0648\u0646\u0688 \u0679\u0631\u0628\u0627\u0626\u0646\u0632 \u0627\u0648\u0631 \u0627\u0633\u0645\u0627\u0631\u0679 \u062a\u0648\u0627\u0646\u0627\u0626\u06cc \u0630\u062e\u06cc\u0631\u06c1 \u06a9\u0631\u0646\u06d2 \u0648\u0627\u0644\u06d2 \u0646\u06cc\u0679 \u0648\u0631\u06a9 \u06a9\u0648 \u06cc\u06a9\u062c\u0627 \u06a9\u0631\u062a\u0627 \u06c1\u06d2\u060c \u062c\u0648 \u0642\u0637\u0628\u06cc \u0639\u0644\u0627\u0642\u0648\u06ba \u06a9\u06cc \u0645\u0633\u062a\u0642\u0644 \u0633\u0631\u062f \u06c1\u0648\u0627\u0624\u06ba \u06a9\u0648 \u0627\u0633\u062a\u0639\u0645\u0627\u0644 \u06a9\u0631\u062a\u06d2 \u06c1\u0648\u0626\u06d2 \u0627\u06cc\u06a9 \u062a\u0642\u0633\u06cc\u0645 \u0634\u062f\u06c1 \u062a\u0648\u0627\u0646\u0627\u0626\u06cc \u0646\u0638\u0627\u0645 \u062a\u0634\u06a9\u06cc\u0644 \u062f\u06cc\u062a\u0627 \u06c1\u06d2\u06d4 \u062c\u06be\u06cc\u0644 \u06a9\u06d2 \u06a9\u0646\u0627\u0631\u0648\u06ba \u0627\u0648\u0631 \u0631\u06c1\u0627\u0626\u0634\u06cc \u0639\u0644\u0627\u0642\u0648\u06ba \u06a9\u06cc \u0686\u06be\u062a\u0648\u06ba \u067e\u0631 \u0646\u0635\u0628 \u0679\u0631\u0628\u0627\u0626\u0646\u0632 \u0627\u06cc\u0633\u06d2 \u06a9\u0627\u0645 \u06a9\u0631\u062a\u06cc \u06c1\u06cc\u06ba \u062c\u06cc\u0633\u06d2 \u0627\u06cc\u06a9 \u201c\u0646\u0638\u0631 \u0646\u06c1 \u0622\u0646\u06d2 \u0648\u0627\u0644\u0627 \u0622\u0631\u06a9\u0633\u0679\u0631\u0627\u201d\u060c \u062c\u0648 \u06c1\u0648\u0627 \u06a9\u0648 \u0628\u062c\u0644\u06cc \u0645\u06cc\u06ba \u062a\u0628\u062f\u06cc\u0644 \u06a9\u0631 \u06a9\u06d2 \u062a\u0642\u0631\u06cc\u0628\u0627\u064b 360 \u06af\u06be\u0631\u0648\u06ba \u06a9\u0648 \u0635\u0627\u0641 \u062a\u0648\u0627\u0646\u0627\u0626\u06cc \u0641\u0631\u0627\u06c1\u0645 \u06a9\u0631\u062a\u0627 \u06c1\u06d2\u06d4 \ud83c\udf2c\ufe0f\u26a1\ufe0f\ud83c\udf0c\n\n\u0634\u062f\u06cc\u062f \u0633\u0631\u062f \u0645\u0627\u062d\u0648\u0644 \u0645\u06cc\u06ba \u0628\u06be\u06cc \u06a9\u0627\u0631\u06a9\u0631\u062f\u06af\u06cc \u0628\u0631\u0642\u0631\u0627\u0631 \u0631\u06a9\u06be\u0646\u06d2 \u0648\u0627\u0644\u06d2 \u062e\u0635\u0648\u0635\u06cc \u0628\u0644\u06cc\u0688 \u0688\u06cc\u0632\u0627\u0626\u0646 \u0627\u0648\u0631 AI \u06a9\u0646\u0679\u0631\u0648\u0644 \u06a9\u06d2 \u0630\u0631\u06cc\u0639\u06d2\u060c \u06cc\u06c1 \u0646\u0638\u0627\u0645 \u0633\u0631\u062f\u06cc\u0648\u06ba \u0645\u06cc\u06ba \u062a\u0648\u0627\u0646\u0627\u0626\u06cc \u06a9\u06cc \u0637\u0644\u0628 \u06a9\u0627 \u062a\u0642\u0631\u06cc\u0628\u0627\u064b 25\u066a \u067e\u0648\u0631\u0627 \u06a9\u0631\u062a\u0627 \u06c1\u06d2\u06d4 \u0645\u0632\u06cc\u062f \u0628\u0631\u0622\u06ba\u060c \u06cc\u06c1 \u0633\u0627\u0644\u0627\u0646\u06c1 1,300 \u0679\u0646 \u0633\u06d2 \u0632\u0627\u0626\u062f CO\u2082 \u06a9\u06d2 \u0627\u062e\u0631\u0627\u062c \u0645\u06cc\u06ba \u06a9\u0645\u06cc \u0644\u0627\u062a\u0627 \u06c1\u06d2\u060c \u0627\u0648\u0631 \u0628\u0631\u0641\u06cc\u0644\u06d2 \u0645\u0646\u0627\u0638\u0631 \u0627\u0648\u0631 \u0631\u0627\u062a \u06a9\u06d2 \u0622\u0633\u0645\u0627\u0646 \u067e\u0631 \u062c\u06af\u0645\u06af\u0627\u062a\u06cc \u0631\u0648\u0634\u0646\u06cc\u0648\u06ba \u06a9\u0648 \u0645\u062d\u0641\u0648\u0638 \u0631\u06a9\u06be\u062a\u0627 \u06c1\u06d2\u06d4\n\nYellowknife \u0646\u06d2 \u0633\u062e\u062a \u0642\u062f\u0631\u062a\u06cc \u062d\u0627\u0644\u0627\u062a \u06a9\u0648 \u0627\u067e\u0646\u06cc \u0637\u0627\u0642\u062a \u0645\u06cc\u06ba \u0628\u062f\u0644 \u06a9\u0631 \u201c\u06c1\u0648\u0627 \u0627\u0648\u0631 \u0631\u0648\u0634\u0646\u06cc \u06a9\u06cc \u06c1\u0645 \u0622\u06c1\u0646\u06af\u06cc\u201d \u06a9\u06d2 \u0630\u0631\u06cc\u0639\u06d2 \u0627\u06cc\u06a9 \u067e\u0627\u0626\u06cc\u062f\u0627\u0631 \u0634\u06c1\u0631\u06cc \u0645\u0627\u0688\u0644 \u0642\u0627\u0626\u0645 \u06a9\u06cc\u0627 \u06c1\u06d2\u06d4\n\n\u0644\u0631\u0632\u062a\u06cc \u06c1\u0648\u0626\u06cc \u0631\u0648\u0634\u0646\u06cc\u0648\u06ba \u06a9\u06d2 \u0646\u06cc\u0686\u06d2\u060c \u06c1\u0648\u0627 \u0634\u06c1\u0631 \u06a9\u0648 \u0631\u0648\u0634\u0646 \u06a9\u0631\u062a\u06cc \u06c1\u06d2 \u2014 Yellowknife \u062e\u0627\u0645\u0648\u0634\u06cc \u0633\u06d2 \u0627\u06cc\u06a9 \u0627\u06cc\u0633\u0627 \u0645\u0633\u062a\u0642\u0628\u0644 \u062a\u0631\u062a\u06cc\u0628 \u062f\u06d2 \u0631\u06c1\u0627 \u06c1\u06d2 \u062c\u06c1\u0627\u06ba \u0641\u0637\u0631\u062a \u0627\u0648\u0631 \u0679\u06cc\u06a9\u0646\u0627\u0644\u0648\u062c\u06cc \u06c1\u0645 \u0622\u06c1\u0646\u06af \u06c1\u0648\u06ba\u06d4 \ud83c\udf0d\ud83d\udc9a\n\n#Yellowknife #Canada #WindEnergy #AuroraPower ArcticInnovation CleanEnergy SustainableNorth GreenLiving",
+        "retention_score": 14.56,
+        "retention_level": "Medium",
+        "keywords": [
+            [
+                "yellowknife",
+                3
+            ],
+            [
+                "aurora",
+                1
+            ],
+            [
+                "wind",
+                1
+            ],
+            [
+                "harmony",
+                1
+            ],
+            [
+                "grid",
+                1
+            ],
+            [
+                "canada",
+                1
+            ],
+            [
+                "windenergy",
+                1
+            ],
+            [
+                "aurorapower",
+                1
+            ],
+            [
+                "arcticinnovation",
+                1
+            ],
+            [
+                "cleanenergy",
+                1
+            ]
+        ],
+        "performance": "Excellent",
+        "reason": "Strong engagement (14.59%) driven by likes (14.56%) shows the reel is resonating and earning reactions. Interaction is comparatively low, so it performs more as a quick win than an action-driver. Likely issues: weak CTA or positioning.",
+        "suggestions": [
+            "Repeat the same format on 3 adjacent topics to build bingeable momentum.",
+            "Remove filler lines and keep only the 1 strongest example + 1 clear takeaway.",
+            "Add a 1-line CTA: \u201cShare this with a friend who needs it\u201d to increase shares.",
+            "Film a common-mistake reel about yellowknife and end with the correct fix."
+        ],
+        "like_rate": 14.56,
+        "comment_rate": 0.02,
+        "engagement_rate": 14.59,
+        "interaction_ratio": 0.17,
+        "timestamp": "2026-04-26 19:57:48",
+        "source": "instaloader",
+        "is_estimated": false
+    }
+]

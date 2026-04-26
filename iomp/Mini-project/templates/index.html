@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Instagram Content Analysis & AI Suggestions</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container narrow">
+        <div class="panel">
+            <h1>Instagram Content Analysis & AI Suggestion System</h1>
+            <p class="muted">Analyze reels with NLP, retention scoring, and smart improvement suggestions.</p>
+
+            <form action="/analyze" method="post" id="analyzeForm">
+                <label for="post_url">Instagram Reel URL</label>
+                <input
+                    id="post_url"
+                    name="post_url"
+                    class="input"
+                    placeholder="https://www.instagram.com/reel/..."
+                    required
+                />
+                <button id="submitBtn" class="btn" type="submit">
+                    <span class="btn-text">Analyze Reel</span>
+                    <span class="spinner hidden"></span>
+                </button>
+            </form>
+
+            <div class="actions">
+                <a href="/history">View Analysis History</a>
+            </div>
+        </div>
+    </div>
+    <script src="{{ url_for('static', filename='main.js') }}"></script>
+</body>
+</html>
